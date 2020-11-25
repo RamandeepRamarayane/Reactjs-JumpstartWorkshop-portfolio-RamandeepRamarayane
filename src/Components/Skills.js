@@ -27,7 +27,7 @@ function Skills(){
         <div className="card">
           &#9733; &#9733; &#9733; &#9734; &#9734;
           <div className="row no-gutters">
-            <div className="col-md-4">
+            <div className="col-md-4 css3">
               <img src={css3} className="card-img" alt="..." />
             </div>
             <div className="col-md-8">

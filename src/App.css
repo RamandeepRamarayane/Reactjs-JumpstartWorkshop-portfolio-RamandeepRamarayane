@@ -36,6 +36,8 @@
 .space  {
   padding-bottom: 5%;
 }
+
+
 /* Intro Section */
 
 .intro-image img {
@@ -90,6 +92,36 @@
   width: 100px;
 }
 
+.css3 img{
+  width: 90px;
+}
+
+.row-pad {
+  width: 90%;
+  margin: auto;
+  padding: 0 0 0 1%;
+  font-size: 1.6rem;
+
+}
+
+.padd {
+  padding: 2% 0;
+}
+.active,
+.row-pad{
+  background: rgb(247, 165, 89) !important ;
+}
+
+.tabel-pad{
+  width: 90%;
+  margin: auto;
+  font-size: 1.4rem;
+  text-align: left;
+}
+
+.section-title{
+  text-align: center;
+}
 
 
 

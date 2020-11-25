@@ -68,3 +68,10 @@ a {
   align-self: center;
   text-align: left;
 }
+
+.list-unstyled li {
+  display: inline-block;
+  padding: 2% 6% 0 6%;
+  font-size: 2rem;
+}
+
